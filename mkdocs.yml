@@ -1,0 +1,43 @@
+site_name: 涂林档案
+site_url: https://tulinarchive.netlify.app
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: white
+    accent: white
+  font:
+    text: Noto Serif SC
+    code: Noto Sans Mono
+  language: zh
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - search.suggest
+    - navigation.footer
+  icon:
+    repo: fontawesome/brands/github
+
+
+extra:
+  homepage: https://tulinarchive.netlify.app
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/talentedbug
+    - icon: fontawesome/brands/creative-commons-zero
+      link: https://creativecommons.org/public-domain/cc0
+    - icon: fontawesome/solid/envelope
+      link: mailto:talentedbug@tutamail.com
+
+plugins:
+  - search
+  - offline
+
+copyright: 使用 CC0 授权，允许您自由使用。
+
+repo_url: https://github.com/talentedbug/tulinarchive
+
+markdown_extensions:
+  - footnotes
