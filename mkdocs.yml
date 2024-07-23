@@ -1,5 +1,5 @@
 site_name: 涂林档案
-site_url: https://tulinarchive.netlify.app
+site_url: https://tulin.netlify.app
 theme:
   name: material
   palette:
@@ -22,7 +22,7 @@ theme:
 
 
 extra:
-  homepage: https://tulinarchive.netlify.app
+  homepage: https://tulin.netlify.app
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/talentedbug

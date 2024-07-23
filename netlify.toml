@@ -1,3 +1,6 @@
 [build]
-  command = "mkdocs build"
+  command = """
+    pip3 install mkdocs-material &&
+    mkdocs build
+    """
   publish = "site"
