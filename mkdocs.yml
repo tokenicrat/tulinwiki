@@ -3,9 +3,9 @@ site_url: https://tulin.netlify.app
 theme:
   name: material
   palette:
-    scheme: default
-    primary: white
-    accent: white
+    scheme: slate
+    primary: black
+    accent: black
   font:
     text: Noto Serif SC
     code: Noto Sans Mono
