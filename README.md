@@ -74,7 +74,7 @@ tulinarchive
 
 ## 3. 协议
 
-涂林档案的代码部分，及除 `docs` 和 `dataset` 目录下所有文件，适用于 [The Unlicense](https://unlicense.org/)；文档部分，适用于 [CC0](https://creativecommons.org/public-domain/cc0/) 协议。放弃所有权利。
+涂林档案的代码部分，即除 `docs` 和 `dataset` 目录下所有文件，适用于 [The Unlicense](https://unlicense.org/)；文档部分，适用于 [CC0](https://creativecommons.org/public-domain/cc0/) 协议。放弃所有权利。
 
 您可以自由复制、分发、修改、再发布、售卖本作品，并且没有署名的强制要求。
 
