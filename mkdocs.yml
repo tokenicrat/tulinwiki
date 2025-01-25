@@ -29,7 +29,7 @@ extra:
     - icon: fontawesome/brands/creative-commons-zero
       link: https://creativecommons.org/public-domain/cc0
     - icon: fontawesome/solid/envelope
-      link: mailto:talentedbug@tutamail.com
+      link: mailto:talentedbug@tulin.me
 
 plugins:
   - search
