@@ -1,4 +1,4 @@
-# 涂林档案
+# 涂林百科
 
 由于本蛾子中奖获得了一个新的域名 tulin.me，正在迁移至 Cloudflare Pages，计划重写 README，请稍候 🙏
 
